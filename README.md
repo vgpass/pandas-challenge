@@ -16,17 +16,17 @@ This repo contains the required files for the Pandas Challenge for Vincent Passa
 
    ***Resources Folder***
 
-        * *PyCitySchools_Complete* is my completed Jupyter notebook for the challenge
+    * *PyCitySchools_Complete* is my completed Jupyter notebook for the challenge
 
-        * Resources folder with schools_complete.csv and students_complete.csv
+    * Resources folder with schools_complete.csv and students_complete.csv
 
 
 **Instructions** This folder contains the original files provided for the challenge
 
-**# Results**
+## **Results**
 
 I believe I sucessfully completed the challenge. My Jupyter notebook has been updated to create the requested data frames, and I spent some time learning how to use Markup cells to give my notebook a nicer appearance.
 
-**# Comments and Thoughts**
+## **Comments and Thoughts**
 
 
