@@ -6,6 +6,8 @@ This is the repository for the Module 4 Pandas challenge
 
 Vincent Passanisi
 
+***
+
 ## **Description**
 
 This repo contains the required files for the Pandas Challenge for Vincent Passanisi
