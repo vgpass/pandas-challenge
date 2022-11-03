@@ -6,15 +6,15 @@ This is the repository for the Module 4 Pandas challenge
 
 Vincent Passanisi
 
-## **# Description**
+## **Description**
 
 This repo contains the required files for the Pandas Challenge for Vincent Passanisi
 
-## **# Files**
+## **Files**
 
-**PyCitySchools** This folder contains the Pandas Challenge
+***PyCitySchools*** This folder contains the Pandas Challenge
 
-   ****Resources Folder****
+   ***Resources Folder***
 
         * *PyCitySchools_Complete* is my completed Jupyter notebook for the challenge
 
